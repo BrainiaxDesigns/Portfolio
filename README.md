@@ -7,5 +7,5 @@
 
 ### Links
 
-- Solution URL:(https://github.com/BrainiaxDesigns/Landing-Page-.git)
-- Live Site URL:(https://brainiaxdesigns.github.io/Landing-Page-/)
+- Solution URL:(https://github.com/BrainiaxDesigns/Portfolio.git)
+- Live Site URL:(https://brainiaxdesigns.github.io/Portfolio/)
