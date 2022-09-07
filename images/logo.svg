@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="7.87402in" height="7.87402in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 7874.02 7874.02"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:none}
+    .fil0 {fill:white}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M3798.65 2700.92c276.03,0 499.8,223.77 499.8,499.8 0,276.03 -223.77,499.8 -499.8,499.8 -276.03,0 -499.8,-223.77 -499.8,-499.8 0,-276.03 223.77,-499.8 499.8,-499.8z"/>
+   </clipPath>
+    <clipPath id="id1">
+     <path d="M3524.29 2782.93l502.83 -6.21 0 747.09 -581.89 7.19 0 -683.69c24.04,-24.04 50.54,-45.61 79.06,-64.38z"/>
+    </clipPath>
+    <clipPath id="id2">
+     <path d="M3798.65 2700.92c276.03,0 499.8,223.77 499.8,499.8 0,276.03 -223.77,499.8 -499.8,499.8 -276.03,0 -499.8,-223.77 -499.8,-499.8 0,-276.03 223.77,-499.8 499.8,-499.8z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M3798.65 2700.92c276.03,0 499.8,223.77 499.8,499.8 0,276.03 -223.77,499.8 -499.8,499.8 -276.03,0 -499.8,-223.77 -499.8,-499.8 0,-276.03 223.77,-499.8 499.8,-499.8z"/>
+  <g style="clip-path:url(#id0)">
+   <g id="_1983577156848">
+   </g>
+   <g style="clip-path:url(#id1)">
+    <image x="3428.99" y="2800.15" width="1386.25" height="843.75" xlink:href="logo_Images\logo_ImgID1.png"/>
+   </g>
+   <g style="clip-path:url(#id2)">
+   </g>
+  </g>
+  <path class="fil1" d="M3798.65 2700.92c276.03,0 499.8,223.77 499.8,499.8 0,276.03 -223.77,499.8 -499.8,499.8 -276.03,0 -499.8,-223.77 -499.8,-499.8 0,-276.03 223.77,-499.8 499.8,-499.8z"/>
+ </g>
+</svg>
